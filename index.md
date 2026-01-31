@@ -3,7 +3,7 @@ layout: default
 ---
 
 <a href="https://www.linkedin.com/in/bryan-anondson-b77870a5/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4285F4?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 
 ## Objective
