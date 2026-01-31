@@ -19,6 +19,7 @@ This repository documents my hands-on journey into cybersecurity, showcasing the
 | ok             | good `zoute` drop |
 
 ## Certifications
+  <p>
   <img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" 
        alt="Google IT Support Professional Certificate"/>
     <ul>
