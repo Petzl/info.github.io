@@ -6,8 +6,17 @@ layout: default
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 
-# Objective
+## Objective
 This repository documents my hands-on journey into cybersecurity, showcasing the skills, projects, and learning milestones I’m building as I transition into a cybersecurity role. It serves as a living portfolio demonstrating practical experience in cloud security, network analysis, and defensive security practices.
+
+## Skills
+
+| Skill          | Project           |
+|:---------------|:------------------|
+| ok             | good swedish fish |
+| out of stock   | good and plenty   | 
+| ok             | good `oreos`      |
+| ok             | good `zoute` drop |
 
 [Link to another page](./another-page.html).
 
