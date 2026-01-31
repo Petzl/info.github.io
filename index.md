@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<a href="https://www.linkedin.com/in/bryan-anondson-b77870a5/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
