@@ -6,7 +6,8 @@ layout: default
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Objective
+This repository documents my hands-on journey into cybersecurity, showcasing the skills, projects, and learning milestones I’m building as I transition into a cybersecurity role. It serves as a living portfolio demonstrating practical experience in cloud security, network analysis, and defensive security practices.
 
 [Link to another page](./another-page.html).
 
