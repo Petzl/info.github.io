@@ -13,9 +13,9 @@ This repository documents my hands-on journey into cybersecurity, showcasing the
 
 | Skill          | Project           |
 |:---------------|:------------------|
-| ok             | good swedish fish |
-| out of stock   | good and plenty   | 
-| ok             | good `oreos`      |
+| Linux          | Comfortable with Linux Terminal |
+| Windows        | Proficient within the Windows evironment   | 
+| Networking     |         |
 | ok             | good `zoute` drop |
 
 ## Certifications
